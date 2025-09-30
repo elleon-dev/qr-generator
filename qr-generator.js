@@ -14,7 +14,6 @@ const qrGenerate = (url = undefined) => {
         height: 300,
         type: "svg",
         data: url,
-        image: "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
         dotsOptions: {
             color: "#191818ff",
             type: "rounded"
