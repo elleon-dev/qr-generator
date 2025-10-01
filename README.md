@@ -2,4 +2,6 @@
 
 ### Creamos una aplicación para generar código QR solo con HTML + CSS + JS
 
-[ElleonDev](https://www.tiktok.com/@elleondev)
+[Click aqui para visualizar el proyecto](elleon-dev.github.io/qr-generator/)
+
+[Mi Tiktok](https://www.tiktok.com/@elleondev)
